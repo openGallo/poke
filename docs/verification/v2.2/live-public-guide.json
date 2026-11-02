@@ -1,0 +1,9 @@
+{
+  "source": "TCGdex documented public card API",
+  "http_status": 200,
+  "observation_count": 15,
+  "result": "connected",
+  "message": "15 public aggregate metrics available for this request. Not a listing scan or completed-sales feed.",
+  "real_sale_count": 0,
+  "real_listing_count": 0
+}

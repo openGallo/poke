@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-10T11:13:48.702875+00:00",
+  "source": "new reconstruction, not recovered legacy source",
+  "git_account": "openGallo",
+  "target_repository": "openGallo/ember-charmander",
+  "repository_readback": "404 Not Found / not accessible to connected GitHub tools",
+  "github_uploaded": false,
+  "legacy_site": "https://ember-charmander.abuzz-gull-8763.chatgpt.site/",
+  "legacy_site_changed": false,
+  "legacy_site_access": "User supplied existing URL; local DNS lookup failed; no Sites control exposed",
+  "external_rebuild_deployment_verified": false,
+  "credentials_used_from_conversation": false
+}

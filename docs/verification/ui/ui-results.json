@@ -1,0 +1,58 @@
+{
+  "environment": "Offline Chromium rendering + in-process ASGI transport bridge; NOT browser-network or deployed end-to-end verification; external reference images blocked",
+  "checks": [
+    {
+      "check": "Login component renders and requests a private session",
+      "passed": true
+    },
+    {
+      "check": "Dashboard renders a genuine empty collection through the real API",
+      "passed": true
+    },
+    {
+      "check": "Binder routing, search, cards and missing-artwork state function",
+      "passed": true
+    },
+    {
+      "check": "Ownership form commits a validated PSA 10 record",
+      "passed": true
+    },
+    {
+      "check": "Reinitializing the browser component reloads persisted ownership and session",
+      "passed": true
+    },
+    {
+      "check": "Watchlist target form saves to the server",
+      "passed": true
+    },
+    {
+      "check": "Listing input and all four explicit slab-review checks submit successfully",
+      "passed": true
+    },
+    {
+      "check": "Completed-sale form works; one observation remains insufficient for valuation",
+      "passed": true
+    },
+    {
+      "check": "Budget and collection settings persist via the settings form",
+      "passed": true
+    },
+    {
+      "check": "Updater control invokes the real backend and reports the saved pause state",
+      "passed": true
+    },
+    {
+      "check": "390-pixel mobile binder has no page-level horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "390-pixel mobile settings have no page-level horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "No uncaught JavaScript errors in these component integration workflows",
+      "passed": true
+    }
+  ],
+  "js_errors": []
+}

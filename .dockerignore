@@ -1,0 +1,15 @@
+.git
+.venv
+runtime
+.env*
+__pycache__
+**/__pycache__
+.pytest_cache
+.coverage
+*.sqlite*
+*.db*
+*.log
+test-results
+playwright-report
+*.zip
+*.bundle

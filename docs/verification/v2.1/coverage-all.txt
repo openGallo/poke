@@ -1,0 +1,23 @@
+Name                        Stmts   Miss  Cover
+-----------------------------------------------
+ember/__init__.py               1      0   100%
+ember/aggregates.py            68      5    93%
+ember/buying.py                64      2    97%
+ember/catalogue.py            116     50    57%
+ember/conditions.py           127      2    98%
+ember/config.py                40      9    78%
+ember/db.py                    67      1    99%
+ember/main.py                 552     76    86%
+ember/matching.py             158     12    92%
+ember/models.py               401     29    93%
+ember/monitor.py              163      8    95%
+ember/observations.py          14      0   100%
+ember/pricing.py              164     15    91%
+ember/providers.py            167     29    83%
+ember/public_guides.py         95      6    94%
+ember/security.py              45      0   100%
+ember/sources.py               13      0   100%
+scripts/audit_tree.py          64     33    48%
+scripts/publish_github.py     100     32    68%
+-----------------------------------------------
+TOTAL                        2419    309    87%

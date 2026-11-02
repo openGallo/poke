@@ -1,0 +1,10 @@
+{
+  "scope": "Actual Linux desktop-server subprocesses and HTTP; synthetic temporary records only. Not Cocoa/WebKit or a live provider test.",
+  "passed": true,
+  "checks": [
+    "Real loopback desktop process reaches first-run setup",
+    "GUI setup endpoint chooses password and owner can sign in over actual HTTP",
+    "Raw NM purchase persists without inflating PSA 10 completion",
+    "Full desktop process restart retains configuration, password and collection"
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "de-sv03.5-004.webp": {
+    "sha256": "86eb691a034f6548e42975e943b0453c03e005ba8dcedfd0b70eb0ed51997e36",
+    "source": "https://assets.tcgdex.net/de/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "en-sv03.5-004.webp": {
+    "sha256": "494a0e131f19aff9e0387b8ad8abd251aaad308bb75416806b58d1c4d829d19c",
+    "source": "https://assets.tcgdex.net/en/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "es-sv03.5-004.webp": {
+    "sha256": "c338983431d06134cc9832031f71558a7fb29e8886f1d319c0b49c366a59479e",
+    "source": "https://assets.tcgdex.net/es/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "fr-sv03.5-004.webp": {
+    "sha256": "f7e10c2d62a3a18f61f463989abc59a8db0e4b4fb1777a335b2fd2aa2c34b5d8",
+    "source": "https://assets.tcgdex.net/fr/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "it-sv03.5-004.webp": {
+    "sha256": "024e2d193ec312326e96a58de8b42c461498107a3f4ea6277e8e8daeca23bca5",
+    "source": "https://assets.tcgdex.net/it/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "pt-sv03.5-004.webp": {
+    "sha256": "35b11ccc33c7e1bbb4d27a99bf1ad22b618b02c67fa49e805efa5bb56409f081",
+    "source": "https://assets.tcgdex.net/pt/sv/sv03.5/004/high.webp",
+    "reference_only": true
+  },
+  "en-ex6-113.webp": {
+    "sha256": "d38e8c563a0bfe23ef4d9f2e551bdae1a5a751762ed9fd8e5f118c489e15cb06",
+    "source": "https://assets.tcgdex.net/en/ex/ex6/113/high.webp",
+    "reference_only": true
+  },
+  "source-06baf72118184c.jpg": {
+    "sha256": "f406129407bde6766dce0328501ed9b6dd72b357427abcefb358da9763a077e7",
+    "source": "https://archives.bulbagarden.net/media/upload/c/c8/020515_P_HITOKAGE.jpg",
+    "reference_only": true
+  },
+  "en-ex3-98.webp": {
+    "sha256": "b2d4aebb2100dd473764bfb5ebd85b038634ae765c6c2d49c85dfdcddcc269dc",
+    "source": "https://assets.tcgdex.net/en/ex/ex3/98/high.webp",
+    "reference_only": true
+  },
+  "source-94a9ff84e04b2c.jpg": {
+    "sha256": "d77a5c3c6b2e524c0270efa233b66875c905af3c5b16ffaa1ebb7a3503d55bac",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/0/01/CharmanderVendingS1.jpg/180px-CharmanderVendingS1.jpg",
+    "reference_only": true
+  },
+  "source-b0736797e1df36.jpg": {
+    "sha256": "c532c50e6b680167263787640aa8cdcd75161b819aaefff458a48c23ddac1425",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/8/81/CharmanderBurningShadows18.jpg/180px-CharmanderBurningShadows18.jpg",
+    "reference_only": true
+  },
+  "source-959f38c02364d3.jpg": {
+    "sha256": "a79674b5d6dd0c1230c3e29958ad1c5fbd7b2dfd94aabb2984e9a17a9093e0aa",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/1/15/CharmanderMyFirstBattle.jpg/180px-CharmanderMyFirstBattle.jpg",
+    "reference_only": true
+  },
+  "en-pop5-10.webp": {
+    "sha256": "a6bc663f1ef9bcd58f6c82cfc80cf0ac40132766be3ef35ad73407c9d7e77682",
+    "source": "https://assets.tcgdex.net/en/pop/pop5/10/high.webp",
+    "reference_only": true
+  },
+  "en-swshp-SWSH232.webp": {
+    "sha256": "f1f79545f6be4221222fae003d711d178d9e0a7b7a4311e0e4adf7da168efd5b",
+    "source": "https://assets.tcgdex.net/en/swsh/swshp/SWSH232/high.webp",
+    "reference_only": true
+  },
+  "en-base1-46.webp": {
+    "sha256": "39c92b48110051caddf55ae4c49cee0ed1bcb39df4e2a5e93530204170bb64ec",
+    "source": "https://assets.tcgdex.net/en/base/base1/46/high.webp",
+    "reference_only": true
+  },
+  "en-base5-50.webp": {
+    "sha256": "12f5cd4c1d976c848c9b36d3791dbe8befa6b730e22f99cfea4d7ea510975ed4",
+    "source": "https://assets.tcgdex.net/en/base/base5/50/high.webp",
+    "reference_only": true
+  },
+  "source-803797ab08406c.jpg": {
+    "sha256": "e6f1b87818a73043786910debbd23c90740d3b268bdbf8f124ce755c815bef32",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/b/be/CharmanderStormfront101.jpg/180px-CharmanderStormfront101.jpg",
+    "reference_only": true
+  },
+  "fr-base1-46.webp": {
+    "sha256": "221df6051066a136b2f2c3d4f9a3aaa6c76149dd3f6238a36b5504cb3e6c89e7",
+    "source": "https://assets.tcgdex.net/fr/base/base1/46/high.webp",
+    "reference_only": true
+  },
+  "en-gym1-61.webp": {
+    "sha256": "02e8a35b7b4ab825fcd44b1a3eb97a20acc015fe5425a4f5c955e5e3752bd2cd",
+    "source": "https://assets.tcgdex.net/en/gym/gym1/61/high.webp",
+    "reference_only": true
+  },
+  "source-42fb6f0edd9811.jpg": {
+    "sha256": "8ee7c064a653df9feb0aab05ddaf224bea84758a51aaef01df7b0c533b4995bc",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/e/ee/BlaineCharmanderGymChallenge60.jpg/180px-BlaineCharmanderGymChallenge60.jpg",
+    "reference_only": true
+  },
+  "source-9b9a5cc7b80195.jpg": {
+    "sha256": "7e56edb6e4169a0cfce9a2fd8157d2b913a022ef1580a82da30d5a21ba76452d",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/9/94/CharmanderSnapBestPhotoContest.jpg/200px-CharmanderSnapBestPhotoContest.jpg",
+    "reference_only": true
+  },
+  "en-base4-69.webp": {
+    "sha256": "adea636eaa4cdd8395c61501aa7b1105aa7bd24c7837a000e75fa17cbc4fbc4e",
+    "source": "https://assets.tcgdex.net/en/base/base4/69/high.webp",
+    "reference_only": true
+  },
+  "en-gym2-60.webp": {
+    "sha256": "0f22f7fd37b8782dab7c5acafaf18491c74eea9da921099a3ff23884cb95b3e9",
+    "source": "https://assets.tcgdex.net/en/gym/gym2/60/high.webp",
+    "reference_only": true
+  },
+  "source-56095e10e93b00.jpg": {
+    "sha256": "8a85e319cb2d83aab190ffba122c54dbff386212129fa7185d4ef60cac3eae33",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/7/72/CharmanderTeamRocket50.jpg/180px-CharmanderTeamRocket50.jpg",
+    "reference_only": true
+  },
+  "fr-base5-50.webp": {
+    "sha256": "918239d65a54074f313db9b04f43788a075c2d83dd1ac41966aab6bd88a3e31f",
+    "source": "https://assets.tcgdex.net/fr/base/base5/50/high.webp",
+    "reference_only": true
+  },
+  "source-3ae0f3b2ee8269.jpg": {
+    "sha256": "7c484d8d4c4ee8813d7dfd68565e8c6aebdeb33bbba739dbbdeea02a90e21bad",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/4/47/CharmanderExpedition97.jpg/180px-CharmanderExpedition97.jpg",
+    "reference_only": true
+  },
+  "source-0ac6ebbb18cd4d.jpg": {
+    "sha256": "04b707780ddb2b1e695d323654dbdb037f0e622280f3fc5411b225f045a920c0",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/9/95/CharmanderExpedition98.jpg/180px-CharmanderExpedition98.jpg",
+    "reference_only": true
+  },
+  "en-ecard1-97.webp": {
+    "sha256": "808b4c90fca26beae02a1c99aed98787f74c88c466956421892053d3a67a8eec",
+    "source": "https://assets.tcgdex.net/en/ecard/ecard1/97/high.webp",
+    "reference_only": true
+  },
+  "fr-ecard1-97.webp": {
+    "sha256": "0ed700e8dcb6cb985cbafcc749699af79f0687bbcc541efd8b376d36f22a962d",
+    "source": "https://assets.tcgdex.net/fr/ecard/ecard1/97/high.webp",
+    "reference_only": true
+  },
+  "en-ecard1-98.webp": {
+    "sha256": "46bdddff0b5c1d83b8eecc6d46aa07d26c9d36595b98af5dd43e9ecd537a98a1",
+    "source": "https://assets.tcgdex.net/en/ecard/ecard1/98/high.webp",
+    "reference_only": true
+  },
+  "fr-ecard1-98.webp": {
+    "sha256": "f4a4e88a1552b9a766ff3e07be7d12f667f76ebbb0981d93496a5f0e075647ee",
+    "source": "https://assets.tcgdex.net/fr/ecard/ecard1/98/high.webp",
+    "reference_only": true
+  },
+  "en-lc-70.webp": {
+    "sha256": "26877c5714a6f8918b88882ce092867919ccb95c2fc41ef4891dd7ac6bc034e3",
+    "source": "https://assets.tcgdex.net/en/lc/lc/70/high.webp",
+    "reference_only": true
+  },
+  "source-7d409cd261638d.jpg": {
+    "sha256": "86167aaf14d8ce234d343b53f24ab41df9f41e0b60e42e9c0c8c0ce7d2d7ab56",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/6/60/CharmanderMcDonaldPack4.jpg/180px-CharmanderMcDonaldPack4.jpg",
+    "reference_only": true
+  },
+  "source-f3727b9c06b49f.jpg": {
+    "sha256": "cbc4dfe64b5d31e4a0558964963b4dff61b43383cbcb5c087ae58d47afa65363",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/e/ea/CharmanderEXDragon98.jpg/180px-CharmanderEXDragon98.jpg",
+    "reference_only": true
+  },
+  "fr-ex3-98.webp": {
+    "sha256": "c2bc2540ab7d0a0605e6933a6d5e5ffd5870428fea9b7233416c89e6a2ace610",
+    "source": "https://assets.tcgdex.net/fr/ex/ex3/98/high.webp",
+    "reference_only": true
+  },
+  "source-3895ec688e1536.jpg": {
+    "sha256": "d4be1aab6b8e0d6af044f8d6da139bd8fd15456dc6aa668d6dc1f615be4fdbfb",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/CharmanderEXFireRedLeafGreen57.jpg/180px-CharmanderEXFireRedLeafGreen57.jpg",
+    "reference_only": true
+  },
+  "source-300ac202d5b623.jpg": {
+    "sha256": "fb6932f26b37c8ed36046f5fc3c4720ee31e6c44cc202870ae65fd98f326c0d1",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/5/55/CharmanderEXFireRedLeafGreen58.jpg/180px-CharmanderEXFireRedLeafGreen58.jpg",
+    "reference_only": true
+  },
+  "fr-ex6-113.webp": {
+    "sha256": "74eddb56e0521a78f41076fa5def4b6fe4d5fbdab3363c097e330b064e13584a",
+    "source": "https://assets.tcgdex.net/fr/ex/ex6/113/high.webp",
+    "reference_only": true
+  },
+  "en-ex6-57.webp": {
+    "sha256": "eb47ae77203166ab20de601c553b031770588b4f56d25b6b04b33fe92df210b5",
+    "source": "https://assets.tcgdex.net/en/ex/ex6/57/high.webp",
+    "reference_only": true
+  },
+  "fr-ex6-57.webp": {
+    "sha256": "b243dd2d68f4e052f4171e789bf4c975d921f2b01380ad0f6ceaebcde7bd5d80",
+    "source": "https://assets.tcgdex.net/fr/ex/ex6/57/high.webp",
+    "reference_only": true
+  },
+  "en-ex6-58.webp": {
+    "sha256": "2b9a69bd253a9483307f4ff497963736822871c8b6a7f0f842fbec2f8ad2192f",
+    "source": "https://assets.tcgdex.net/en/ex/ex6/58/high.webp",
+    "reference_only": true
+  },
+  "fr-ex6-58.webp": {
+    "sha256": "c8198704c167b145a5e357e4e8697a5738fd5ff1a77db5c53b112f9977ddce9d",
+    "source": "https://assets.tcgdex.net/fr/ex/ex6/58/high.webp",
+    "reference_only": true
+  },
+  "source-19c7871559b1fc.jpg": {
+    "sha256": "d21ef6d08d8b1ca58169d366a2d2aa91081093632ab3d203cf4b5c53bae24918",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/8/81/CharmanderEXCrystalGuardians48.jpg/180px-CharmanderEXCrystalGuardians48.jpg",
+    "reference_only": true
+  },
+  "en-ex14-48.webp": {
+    "sha256": "6fa3f688c63e830a6a0d2f61a7a38a35c81c2091b811a6edcac1937e510deac3",
+    "source": "https://assets.tcgdex.net/en/ex/ex14/48/high.webp",
+    "reference_only": true
+  },
+  "fr-ex14-48.webp": {
+    "sha256": "5567b22dbbff62e4622863a62163310cc0d09a3f46f472467003f92d4edeb3b0",
+    "source": "https://assets.tcgdex.net/fr/ex/ex14/48/high.webp",
+    "reference_only": true
+  },
+  "source-35865c36b3b769.jpg": {
+    "sha256": "87ab7bcab17e872a9aa08de9cc5f5a319bf0d1439d9b8c4fada0b1c5e6c200ff",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/0/02/Charmander10POPSeries5.jpg/180px-Charmander10POPSeries5.jpg",
+    "reference_only": true
+  },
+  "en-ex14-49.webp": {
+    "sha256": "0f9b8b25be2f63234f9319e826c16b1a8718e8809fcd01e47bdc1b6565f150e9",
+    "source": "https://assets.tcgdex.net/en/ex/ex14/49/high.webp",
+    "reference_only": true
+  },
+  "fr-ex14-49.webp": {
+    "sha256": "7fff22f876dc8857110e1351930e3cc8d8d6d3c6cc5b2f2d3fb8b13e234d54a5",
+    "source": "https://assets.tcgdex.net/fr/ex/ex14/49/high.webp",
+    "reference_only": true
+  },
+  "source-abd2f536325cea.jpg": {
+    "sha256": "9c92c120a1629053447eefc0fa5801f2483f1adf2f93a09305a22caf7baf8381",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/3/3f/CharmanderEXPowerKeepers48.jpg/180px-CharmanderEXPowerKeepers48.jpg",
+    "reference_only": true
+  },
+  "en-ex16-48.webp": {
+    "sha256": "e48f0cf67b0de939bd1e4e5869db93cf73e63f01531d1624f689f8057cd23d88",
+    "source": "https://assets.tcgdex.net/en/ex/ex16/48/high.webp",
+    "reference_only": true
+  },
+  "fr-ex16-48.webp": {
+    "sha256": "02cf9098134797e0f79e8a04cfc73873e4ded27f242dac37d91a72ce89ec3994",
+    "source": "https://assets.tcgdex.net/fr/ex/ex16/48/high.webp",
+    "reference_only": true
+  },
+  "source-f4e6edb78a46fc.jpg": {
+    "sha256": "d4cc2ea9c849c9767613ca64b551a7f8a861527176cb8e78445e5c9c83386810",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/d/d1/CharmanderSecretWonders82.jpg/180px-CharmanderSecretWonders82.jpg",
+    "reference_only": true
+  },
+  "en-dp3-82.webp": {
+    "sha256": "1b584e720f1f7625c117363f1ee7f18b47e0637e25af5a9b478e3a9bb5f08ab0",
+    "source": "https://assets.tcgdex.net/en/dp/dp3/82/high.webp",
+    "reference_only": true
+  },
+  "fr-dp3-82.webp": {
+    "sha256": "341d633727c3ac4b90383fc8c38b963270de45b51f2ce2bac63f1bf558b4042a",
+    "source": "https://assets.tcgdex.net/fr/dp/dp3/82/high.webp",
+    "reference_only": true
+  },
+  "en-dp7-101.webp": {
+    "sha256": "4d03d99b689e45e0bb55696a54a59a35f5959caa1b7a39ad5dd727fce9642531",
+    "source": "https://assets.tcgdex.net/en/dp/dp7/101/high.webp",
+    "reference_only": true
+  },
+  "source-d0c4a4e4de9a06.jpg": {
+    "sha256": "235d24ed52572bb2eedc3c2734a72d1d14ccca5d4bbc0f17ff1024f23335a058",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/8/82/CharmanderArceus59.jpg/180px-CharmanderArceus59.jpg",
+    "reference_only": true
+  },
+  "en-pl4-59.webp": {
+    "sha256": "ba955b3300cdc27db9b0d708d9b8cb0daa3d7d0e90d9eaedd25557dd1d800917",
+    "source": "https://assets.tcgdex.net/en/pl/pl4/59/high.webp",
+    "reference_only": true
+  },
+  "source-6343a6589f1af8.jpg": {
+    "sha256": "3acd77d491d35ce404ddbac456452704166f05989bfa513f95748d1824249a44",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/5/5a/CharmanderBWPromo165.jpg/200px-CharmanderBWPromo165.jpg",
+    "reference_only": true
+  },
+  "de-bw7-18.webp": {
+    "sha256": "d60429936280fa7b696d4d69d88cd16d85c092ec08a7d9fa8c861c9fafc7323a",
+    "source": "https://assets.tcgdex.net/de/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "en-bw7-18.webp": {
+    "sha256": "5bdfa6332d42fd39a52034493c5937e0b6f78796c55b7c14eb4cceb53733f448",
+    "source": "https://assets.tcgdex.net/en/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "es-bw7-18.webp": {
+    "sha256": "ddcb5a8a6ec52d49f3e9ddaf93e629ad976d269c34c99f9cf96b58570589ea6c",
+    "source": "https://assets.tcgdex.net/es/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "fr-bw7-18.webp": {
+    "sha256": "78b8a346559cd308142d7cfe78c14a8d59663649cc66890d53785003aad06d52",
+    "source": "https://assets.tcgdex.net/fr/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "it-bw7-18.webp": {
+    "sha256": "2ecb15e6bf0c3ec8064c51673c8be3584417f3add3a8f1477d9f1324dfe74033",
+    "source": "https://assets.tcgdex.net/it/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "pt-bw7-18.webp": {
+    "sha256": "66cd440074681ec786ac2103e2ee0ba10bc4f4a81e975df95184f08e25026270",
+    "source": "https://assets.tcgdex.net/pt/bw/bw7/18/high.webp",
+    "reference_only": true
+  },
+  "source-13a2edc2866aa6.jpg": {
+    "sha256": "c984a895af13523c188c3a19cfd6b8906752853fcf592ddc40c567d90d50db8f",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/6/6e/CharmanderLegendaryTreasures17.jpg/180px-CharmanderLegendaryTreasures17.jpg",
+    "reference_only": true
+  },
+  "en-bw11-17.webp": {
+    "sha256": "1d928f31b6fb62af7ed5fbb0d7ba5b8f1dcf45e91dfc012c409dd9d5b6aba136",
+    "source": "https://assets.tcgdex.net/en/bw/bw11/17/high.webp",
+    "reference_only": true
+  },
+  "de-xy12-9.webp": {
+    "sha256": "aa09433e95e18c954d03c464fbac285bb29cb01e18b4a8ea5a3badcc408dc5c1",
+    "source": "https://assets.tcgdex.net/de/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "en-xy12-9.webp": {
+    "sha256": "eb593fe4387c92bc6023c537152c92175277d93dcb9b6a8a4e5e5feaa4465971",
+    "source": "https://assets.tcgdex.net/en/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "es-xy12-9.webp": {
+    "sha256": "c1216169736ba80de26f1957db81051ded93cddca11e4924cdb3686b5480da25",
+    "source": "https://assets.tcgdex.net/es/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "fr-xy12-9.webp": {
+    "sha256": "e35682434e04beb40a2a27c694d9151020ca6800b3fddc836b5c29ff792a8ece",
+    "source": "https://assets.tcgdex.net/fr/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "it-xy12-9.webp": {
+    "sha256": "937df70b9184ae20d291d59d6a1db70b5eea6bbb3a80446136ef54c8c45b7a5c",
+    "source": "https://assets.tcgdex.net/it/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "pt-xy12-9.webp": {
+    "sha256": "b24997d34cc67b99205cd6fda7c0448488646ae83fb897cc9365df00f052d13b",
+    "source": "https://assets.tcgdex.net/pt/xy/xy12/9/high.webp",
+    "reference_only": true
+  },
+  "source-42054ec6cf741a.jpg": {
+    "sha256": "8749e04a371f8f170775e2a27ba26fc48539702361d45c5ab4c924cb123f147d",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/9/97/CharmanderEvolutions9.jpg/180px-CharmanderEvolutions9.jpg",
+    "reference_only": true
+  },
+  "de-g1-RC3.webp": {
+    "sha256": "cf29e06ac2610e64db3cae002c4be6d777a7323458f5ea757ca7536e96cfb41d",
+    "source": "https://assets.tcgdex.net/de/xy/g1/RC3/high.webp",
+    "reference_only": true
+  },
+  "en-g1-RC3.webp": {
+    "sha256": "c9657d4644d72caf42ad0b73f5b9e50f7b7d516b991241a8494f235dda78d9b4",
+    "source": "https://assets.tcgdex.net/en/xy/g1/RC3/high.webp",
+    "reference_only": true
+  },
+  "fr-g1-RC3.webp": {
+    "sha256": "c8f7891be49fae9bc223368e03d1dddee15eedc8a5ab9383e898ea19324cd192",
+    "source": "https://assets.tcgdex.net/fr/xy/g1/RC3/high.webp",
+    "reference_only": true
+  },
+  "source-7a087f6c0fee2b.jpg": {
+    "sha256": "5fef02f56486ed744222803e8ad87e40fec7217ac1e55382ce8dca868bd25af7",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/b/b6/CharmanderGenerationsRC3.jpg/180px-CharmanderGenerationsRC3.jpg",
+    "reference_only": true
+  },
+  "de-sm3-18.webp": {
+    "sha256": "f2db61492b053aeb14deb12026eb2aedb97b86041fbd15001d3531196a2f7200",
+    "source": "https://assets.tcgdex.net/de/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "en-sm3-18.webp": {
+    "sha256": "657753c5d5f10abcfa74c55239a3f0f5912982100271f6054acefdcdd428aab0",
+    "source": "https://assets.tcgdex.net/en/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "es-sm3-18.webp": {
+    "sha256": "14ad67d22948f3d12465463ec64f57338a60eea4a5b3351dc8669efa09a4726b",
+    "source": "https://assets.tcgdex.net/es/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "fr-sm3-18.webp": {
+    "sha256": "3029169d095e13571c15f9cad4dff5bea5cdc2957f327d5c046e2906ef2c9f26",
+    "source": "https://assets.tcgdex.net/fr/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "it-sm3-18.webp": {
+    "sha256": "c55eca4aba0902af346f446b57e97f79526bbeb12ccf39aa860b90afd7d0aa8e",
+    "source": "https://assets.tcgdex.net/it/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "pt-sm3-18.webp": {
+    "sha256": "a605854ee5cf95e6444962c22623996be8bd496795c30f479ddc3a760325ab38",
+    "source": "https://assets.tcgdex.net/pt/sm/sm3/18/high.webp",
+    "reference_only": true
+  },
+  "source-ee6d723db1491f.jpg": {
+    "sha256": "93743ebffa5786d9e908ce875ba6516e9ea9950a90da7b1eded867c804ca5ad8",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/CharmanderBurningShadows18a.jpg/200px-CharmanderBurningShadows18a.jpg",
+    "reference_only": true
+  },
+  "source-45081b98e05f3d.jpg": {
+    "sha256": "b1b0474280b6641a5141f3101cd3d7069651e59e8b343362599a51efdfdfc8a9",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/1/18/CharmanderDragonMajesty1.jpg/180px-CharmanderDragonMajesty1.jpg",
+    "reference_only": true
+  },
+  "en-sma-SV6.webp": {
+    "sha256": "2c73fde1821f7fe59287b86470a29ffe0f7b6df15fd62dbcf58f4fc9acaf7824",
+    "source": "https://assets.tcgdex.net/en/sm/sma/SV6/high.webp",
+    "reference_only": true
+  },
+  "en-sm9-11.webp": {
+    "sha256": "9261a4ed1f0e94288f6e35cb002700a1f97e781b0141de66ebc033d38d90f956",
+    "source": "https://assets.tcgdex.net/en/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "en-sm9-12.webp": {
+    "sha256": "d8daa265cbb328f993ec0facb44b8d4b576750a931c759e791353f6591ff4867",
+    "source": "https://assets.tcgdex.net/en/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "de-det1-4.webp": {
+    "sha256": "fc5ce8ad996d5aedbcc554f4453fd0e62ccd1ba5ce17bbd48523ed33a0ea21f2",
+    "source": "https://assets.tcgdex.net/de/sm/det1/4/high.webp",
+    "reference_only": true
+  },
+  "en-det1-4.webp": {
+    "sha256": "d83f889c4c1e881151a7521e5349f6ced8ead244455dc5f2c546281b0dd8585f",
+    "source": "https://assets.tcgdex.net/en/sm/det1/4/high.webp",
+    "reference_only": true
+  },
+  "es-det1-4.webp": {
+    "sha256": "852a971d351d4b92e072848db2261360ef62d6b72e43d0763f4c9fdbd2f2bb84",
+    "source": "https://assets.tcgdex.net/es/sm/det1/4/high.webp",
+    "reference_only": true
+  },
+  "source-7002f0224f4b42.jpg": {
+    "sha256": "369608895c17f4c34fac1869dd3796e9a2fccf980678ac57f2037e85c94550fc",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/3/3d/CharmanderDetectivePikachu4.jpg/180px-CharmanderDetectivePikachu4.jpg",
+    "reference_only": true
+  },
+  "it-det1-4.webp": {
+    "sha256": "8740538815b73048155881d1c8561044758caabb9f5496ffeba3999bbdbf3d52",
+    "source": "https://assets.tcgdex.net/it/sm/det1/4/high.webp",
+    "reference_only": true
+  },
+  "pt-det1-4.webp": {
+    "sha256": "b52242dcfbca34cdaa5e47f3a23ce613091ff6acb657901f7235db2f74de85e9",
+    "source": "https://assets.tcgdex.net/pt/sm/det1/4/high.webp",
+    "reference_only": true
+  },
+  "de-sm115-7.webp": {
+    "sha256": "6b0bbdaf491ccde89eb5fa4c29b33575f45ebc1bd380db026e13cda9697948f8",
+    "source": "https://assets.tcgdex.net/de/sm/sm115/7/high.webp",
+    "reference_only": true
+  },
+  "en-sm115-7.webp": {
+    "sha256": "98189b5fdcba9fc7aa9fd99769ac2a319791e77d5e0b308ecad86e6445c0571f",
+    "source": "https://assets.tcgdex.net/en/sm/sm115/7/high.webp",
+    "reference_only": true
+  },
+  "source-8205695d299938.jpg": {
+    "sha256": "9cb987ce2dfc510bc0e4e9b5de17fec38ebba47b0b2280b9696ca8c5c10ecbe5",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/f/f9/CharmanderHiddenFates7.jpg/180px-CharmanderHiddenFates7.jpg",
+    "reference_only": true
+  },
+  "de-sm9-11.webp": {
+    "sha256": "2d9132ae4d31c50b7ffbedbf105fdf88243a53a7c8f671736e68894073f79caa",
+    "source": "https://assets.tcgdex.net/de/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "es-sm9-11.webp": {
+    "sha256": "63e92e7a5dd2d430b8195a3e3e14efd4d634d729e834a1689b63c460257ba60a",
+    "source": "https://assets.tcgdex.net/es/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "fr-sm9-11.webp": {
+    "sha256": "b92d2c93e164f6f1c2e9acf8e55b33ad18d1b5fbc8e38885ce5d516e1d469550",
+    "source": "https://assets.tcgdex.net/fr/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "it-sm9-11.webp": {
+    "sha256": "d93f21f61b1c3f24dd3b880ddffba7c71dcba163319dd859864ba79cbe65afc9",
+    "source": "https://assets.tcgdex.net/it/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "pt-sm9-11.webp": {
+    "sha256": "34365b3e0794f34c8b8f56472e09a8bc51eecf34ae49a0f9fc29faae2c33c630",
+    "source": "https://assets.tcgdex.net/pt/sm/sm9/11/high.webp",
+    "reference_only": true
+  },
+  "de-sm9-12.webp": {
+    "sha256": "e04e0af1c0ef8c101a4cf989d27b43e324bc9b75bbbb14d98e0a0ad62bd27b26",
+    "source": "https://assets.tcgdex.net/de/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "es-sm9-12.webp": {
+    "sha256": "c11bf4d9929f2d5e312d3c42ace0d94bb51fce5ecbb8a2308c1a247f8c5c18bc",
+    "source": "https://assets.tcgdex.net/es/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "fr-sm9-12.webp": {
+    "sha256": "965c86619fd8225a1436f227b91c1698bcdc31255ffafe05494c4f36afd47e14",
+    "source": "https://assets.tcgdex.net/fr/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "it-sm9-12.webp": {
+    "sha256": "be9a98c5a8f0fc43bee347bfa13df751885a1e97f0ba09be0c7ad650d422aef0",
+    "source": "https://assets.tcgdex.net/it/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "pt-sm9-12.webp": {
+    "sha256": "c9a227745fd60864649f27df796a80666da8e33e009370880d852f9febbc050c",
+    "source": "https://assets.tcgdex.net/pt/sm/sm9/12/high.webp",
+    "reference_only": true
+  },
+  "source-8204878be4b8f9.jpg": {
+    "sha256": "896e34c29660671b51d52cb2c936abeff6c30a1ba8126874a7b90ed24cf80a8b",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/1/14/CharmanderSWSHPromo92.jpg/180px-CharmanderSWSHPromo92.jpg",
+    "reference_only": true
+  },
+  "en-swshp-SWSH092.webp": {
+    "sha256": "62e42fbe3866bed157cb90ee6876251816f3378a5ff28104277bdeb86b4ff812",
+    "source": "https://assets.tcgdex.net/en/swsh/swshp/SWSH092/high.webp",
+    "reference_only": true
+  },
+  "de-swsh4-23.webp": {
+    "sha256": "da3d371965ca02dc616a5cb40e842b2a38299888d96f713718cfedc8b145997b",
+    "source": "https://assets.tcgdex.net/de/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "en-swsh4-23.webp": {
+    "sha256": "5da83e205f45611bddf69a3fe0d6b184373c989cc7db04be491aba48c0861dbe",
+    "source": "https://assets.tcgdex.net/en/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "es-swsh4-23.webp": {
+    "sha256": "b9e2bb61937f09ac76f5ec18f5d8f43fe56293c9a2ed969027dc5717c645eebb",
+    "source": "https://assets.tcgdex.net/es/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "fr-swsh4-23.webp": {
+    "sha256": "afa732e3294d6b3e0092ab0956b06c472c36005b235fcfc5c0ce826c2ec4f6ba",
+    "source": "https://assets.tcgdex.net/fr/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "it-swsh4-23.webp": {
+    "sha256": "c63dc77abe25374958347a1758445ec0fcef90c4aeb6686b819861cfe47d33b7",
+    "source": "https://assets.tcgdex.net/it/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "pt-swsh4-23.webp": {
+    "sha256": "4647e66d5cc1834dbc05cd4234cc926e58e1387af7d7ebba6bf9f9bb996ace5f",
+    "source": "https://assets.tcgdex.net/pt/swsh/swsh4/23/high.webp",
+    "reference_only": true
+  },
+  "zh-tw-S4-010.webp": {
+    "sha256": "8d7458dd02946e9276256aaaa3d0e29ce336fcf6539c2918f05effab472aec8c",
+    "source": "https://assets.tcgdex.net/zh-tw/S/S4/010/high.webp",
+    "reference_only": true
+  },
+  "de-swshp-SWSH092.webp": {
+    "sha256": "894cce572a17db5d5c0d7fbc881ef986f26e3881fe9ebfe9d70c9c6883a679e9",
+    "source": "https://assets.tcgdex.net/de/swsh/swshp/SWSH092/high.webp",
+    "reference_only": true
+  },
+  "es-swshp-SWSH092.webp": {
+    "sha256": "82841ce038ebf190034559e56783ddeecb95f1963018c32ec96d0f80f8e6b33c",
+    "source": "https://assets.tcgdex.net/es/swsh/swshp/SWSH092/high.webp",
+    "reference_only": true
+  },
+  "fr-swshp-SWSH092.webp": {
+    "sha256": "bc02e9b2e416d6f6be9dbb2b3258cfc73b525e94a91163e417795cae5c55de43",
+    "source": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH092/high.webp",
+    "reference_only": true
+  },
+  "it-swshp-SWSH092.webp": {
+    "sha256": "fd9826a56244155b3e0a6715ab573c885cf3258a10934267765d9af852d54b2c",
+    "source": "https://assets.tcgdex.net/it/swsh/swshp/SWSH092/high.webp",
+    "reference_only": true
+  },
+  "zh-tw-S8b-015.webp": {
+    "sha256": "526cec69d60e04b6a0a59b23773c4af8ac7e0d40b09821b66b425d2e9c10624d",
+    "source": "https://assets.tcgdex.net/zh-tw/S/S8b/015/high.webp",
+    "reference_only": true
+  },
+  "de-swsh10.5-008.webp": {
+    "sha256": "039230e832236fed5dad24b0b191d9b9c3a4888df15c2b9e060ea741e7e42003",
+    "source": "https://assets.tcgdex.net/de/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "en-swsh10.5-008.webp": {
+    "sha256": "fe2a2e89b913a9efa0b1f6aed934463479b192759e0f3b1c1667a46d9feaffda",
+    "source": "https://assets.tcgdex.net/en/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "es-swsh10.5-008.webp": {
+    "sha256": "897f8d9327640ddfd75b12e8802b76ed484b793b8e1c97b3c0034314b9571687",
+    "source": "https://assets.tcgdex.net/es/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "fr-swsh10.5-008.webp": {
+    "sha256": "41d34e5afe1251ca578b42a26f6ad4b34f554adc2f371d688247b7d4fae6ad79",
+    "source": "https://assets.tcgdex.net/fr/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "it-swsh10.5-008.webp": {
+    "sha256": "ecc0076461bd3dd28e74acd7aac946c2a0c2a6c819cb5f9efaf1ea9c2ceefa8b",
+    "source": "https://assets.tcgdex.net/it/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "pt-swsh10.5-008.webp": {
+    "sha256": "cc31fc6b48ad866fb536afd69099aa461fee211b97850528a132169c85807422",
+    "source": "https://assets.tcgdex.net/pt/swsh/swsh10.5/008/high.webp",
+    "reference_only": true
+  },
+  "zh-tw-S10b-008.webp": {
+    "sha256": "5baa69a9f4fc4a814656d0eedc755f33f1b147143f857c2821fb019ff1c29158",
+    "source": "https://assets.tcgdex.net/zh-tw/S/S10b/008/high.webp",
+    "reference_only": true
+  },
+  "source-162c17ed8aefaf.jpg": {
+    "sha256": "ab70310d5d34ec6e211c1995c0efdacc72d4f3f67f6e1e2b1623e8cd18defca0",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/CharmanderSWSHPromo232.jpg/180px-CharmanderSWSHPromo232.jpg",
+    "reference_only": true
+  },
+  "fr-swshp-SWSH232.webp": {
+    "sha256": "039ae607ede180d7441a3ecba8e512e8a4fe065b1a7077f6c2f9812ccbdacd1c",
+    "source": "https://assets.tcgdex.net/fr/swsh/swshp/SWSH232/high.webp",
+    "reference_only": true
+  },
+  "it-swshp-SWSH232.webp": {
+    "sha256": "6082f1a59742cc73dd061c6e09d1c102cf83b98544713109c75a3b43c240fe35",
+    "source": "https://assets.tcgdex.net/it/swsh/swshp/SWSH232/high.webp",
+    "reference_only": true
+  },
+  "de-sv03.5-168.webp": {
+    "sha256": "caad3a55683e82aec1944d284520ac4752f7c23816f1d151636a467796b4c4b4",
+    "source": "https://assets.tcgdex.net/de/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "en-sv03.5-168.webp": {
+    "sha256": "90091b3409e4bd3c0a25d9ed11dd142a12b623d94c6d8c2fface74450bc346dc",
+    "source": "https://assets.tcgdex.net/en/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "es-sv03.5-168.webp": {
+    "sha256": "804f165989806b8aa2de1176c115f5e06ea857bbd1659a1ff4977b4aacd07ae9",
+    "source": "https://assets.tcgdex.net/es/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "fr-sv03.5-168.webp": {
+    "sha256": "225c6ba745a73afa45da9f1cb9babec5945e41c1d00fe03f155f5cc1a838e77b",
+    "source": "https://assets.tcgdex.net/fr/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "it-sv03.5-168.webp": {
+    "sha256": "070e3db42f279c88a4dd9f5fd45a32f95a93b15bdc330ced89624cf6a5457103",
+    "source": "https://assets.tcgdex.net/it/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "pt-sv03.5-168.webp": {
+    "sha256": "7dc9594242a863667f4c9bde4f10629368b6bf1bc05fa0ee576a9c0f0a41a16f",
+    "source": "https://assets.tcgdex.net/pt/sv/sv03.5/168/high.webp",
+    "reference_only": true
+  },
+  "id-SVDs-015.webp": {
+    "sha256": "4b7c7c20352c6c4b41893ef84cbf0817da54e4c2969c2fb005c32530a532e6b5",
+    "source": "https://assets.tcgdex.net/id/SV/SVDs/015/high.webp",
+    "reference_only": true
+  },
+  "id-SV2a-004.webp": {
+    "sha256": "0b6bc7308c40cf3c5a7e803d50a00e0dae844439dcbc0eab43012bfa1f9dbaca",
+    "source": "https://assets.tcgdex.net/id/SV/SV2a/004/high.webp",
+    "reference_only": true
+  },
+  "id-SV3s-013.webp": {
+    "sha256": "e1c4a4c7099f64c3e97a2e4735741c10aea476511db44798d5b0fa0f13262193",
+    "source": "https://assets.tcgdex.net/id/SV/SV3s/013/high.webp",
+    "reference_only": true
+  },
+  "de-sv03-026.webp": {
+    "sha256": "5c73c02c28aab6a5e6f296b807a83b3d88e3b052386a8a3030e90998a48b1dac",
+    "source": "https://assets.tcgdex.net/de/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "en-sv03-026.webp": {
+    "sha256": "16fe1c87a20afa757361ddaa70684f1bf32c0ae88f2d50b88822532989e9c92a",
+    "source": "https://assets.tcgdex.net/en/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "es-sv03-026.webp": {
+    "sha256": "e38451f64ec97d0609049ae35ed09931289618054151fa5a83b9bb79ac0ef65e",
+    "source": "https://assets.tcgdex.net/es/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "fr-sv03-026.webp": {
+    "sha256": "e97b208f39e7c9e18e018b1b05aa76d8a243fd0766b5a1f8afe5a44d2e98fc26",
+    "source": "https://assets.tcgdex.net/fr/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "it-sv03-026.webp": {
+    "sha256": "46894b4070035f76202b216ed2941dba1c6ae63d879ecd577b3f75e3750c8cd7",
+    "source": "https://assets.tcgdex.net/it/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "pt-sv03-026.webp": {
+    "sha256": "767f2b22a80d440e960d18146d0da1d227a370167a14c42de04371ce562f302a",
+    "source": "https://assets.tcgdex.net/pt/sv/sv03/026/high.webp",
+    "reference_only": true
+  },
+  "ja-SV2a-004.webp": {
+    "sha256": "67478cc16d95b55f12bbde2e8dbfea368314decbaf0582a08bf031ae896b3e9a",
+    "source": "https://assets.tcgdex.net/ja/SV/SV2a/004/high.webp",
+    "reference_only": true
+  },
+  "ja-SV2a-168.webp": {
+    "sha256": "2280fd0bd2a71865e3c58c482f9988a5ea4a090d3051e6f9ba663e45d1478d05",
+    "source": "https://assets.tcgdex.net/ja/SV/SV2a/168/high.webp",
+    "reference_only": true
+  },
+  "ja-SV3-012.webp": {
+    "sha256": "cc13308171d10fbf095ca4c108bff2fe767b853dfc7bca1e7a611ea17273358b",
+    "source": "https://assets.tcgdex.net/ja/SV/SV3/012/high.webp",
+    "reference_only": true
+  },
+  "en-svp-047.webp": {
+    "sha256": "99cd78ad0daaa5334a2f68ff23f8e2e6fc1b8905cc866fbb2f811f500391d5e3",
+    "source": "https://assets.tcgdex.net/en/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "de-svp-044.webp": {
+    "sha256": "d4c85b4380ab3c1d9b152264d3445c2e2f6b892589f0bfb47d813f262a430d7d",
+    "source": "https://assets.tcgdex.net/de/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "en-svp-044.webp": {
+    "sha256": "d1a2571194c1b14016af5dcd9b628ea17545cf63e9df29329143e05b01000fcf",
+    "source": "https://assets.tcgdex.net/en/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "es-svp-044.webp": {
+    "sha256": "d8eab27fcf650940e66597d09e8958bffb9b7a8d2ac712dd297f2801eb660729",
+    "source": "https://assets.tcgdex.net/es/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "fr-svp-044.webp": {
+    "sha256": "1974ca38ecb586cfa7f2ae67fb5fcbb056c6e0e9db5d69d616734ad13560b10b",
+    "source": "https://assets.tcgdex.net/fr/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "it-svp-044.webp": {
+    "sha256": "4b2e506e28deaec1ed7f38516ea6d645c192e7f4d8ccb0dcf7c249f7e682b4e6",
+    "source": "https://assets.tcgdex.net/it/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "pt-svp-044.webp": {
+    "sha256": "7e9b404b8df996c84a576975c07c9502e392a3a7425457deca2442c8492b1c1a",
+    "source": "https://assets.tcgdex.net/pt/sv/svp/044/high.webp",
+    "reference_only": true
+  },
+  "de-svp-047.webp": {
+    "sha256": "0b9dd485e1a0ceeb70710b4490c0107ab97370d37e40c52e65569c3473af9f19",
+    "source": "https://assets.tcgdex.net/de/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "es-svp-047.webp": {
+    "sha256": "20eccf00b39911e0ee378a2ae77d56d5a67c1aeaceffa8050129baecd11ed0d0",
+    "source": "https://assets.tcgdex.net/es/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "fr-svp-047.webp": {
+    "sha256": "5d6e61a61cbb7ba8142d6bd5ab8db1897fee27d7fb23193ee70f3b51ccac7aa7",
+    "source": "https://assets.tcgdex.net/fr/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "it-svp-047.webp": {
+    "sha256": "5eeb8e5aed7baa7905a97565193b330c2c3e5beccaa52cf77d6cada0afbc623b",
+    "source": "https://assets.tcgdex.net/it/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "pt-svp-047.webp": {
+    "sha256": "520c95ccef1ce38f4875d3aeb2aa2d9f150a80ebbd96a88413ebd4ce8cadc018",
+    "source": "https://assets.tcgdex.net/pt/sv/svp/047/high.webp",
+    "reference_only": true
+  },
+  "ja-SV4a-025.webp": {
+    "sha256": "70ae10e53b80969a42be67d53c70544f6cb793158ed937bf7e7cb8cdde83619b",
+    "source": "https://assets.tcgdex.net/ja/SV/SV4a/025/high.webp",
+    "reference_only": true
+  },
+  "ja-SV4a-210.webp": {
+    "sha256": "df7fd5ec1e0817d2e74c30104d3af77710395f759665b52fb7779b7dd8d3d78a",
+    "source": "https://assets.tcgdex.net/ja/SV/SV4a/210/high.webp",
+    "reference_only": true
+  },
+  "th-SVDs-015.webp": {
+    "sha256": "ae8c34debe5cdae3897e1c2c81da7ea448429fafef7002d1fe3262fd2b9487d0",
+    "source": "https://assets.tcgdex.net/th/SV/SVDs/015/high.webp",
+    "reference_only": true
+  },
+  "th-SV3-012.webp": {
+    "sha256": "544650ee38258a49f83f88b0438b934d0fc03c2ba2dd9405961a9186f3ca48fd",
+    "source": "https://assets.tcgdex.net/th/SV/SV3/012/high.webp",
+    "reference_only": true
+  },
+  "th-SV2a-004.webp": {
+    "sha256": "83525e366f3c079525504862f5b79fd5741accd6ebf1053dcef8b1feebb03d2b",
+    "source": "https://assets.tcgdex.net/th/SV/SV2a/004/high.webp",
+    "reference_only": true
+  },
+  "zh-tw-SV2a-004.webp": {
+    "sha256": "a71b577a8b08ab692c0aaa00ded402aff0662678acadfe079e52cb0be40cfff9",
+    "source": "https://assets.tcgdex.net/zh-tw/SV/SV2a/004/high.webp",
+    "reference_only": true
+  },
+  "zh-tw-SV3-012.webp": {
+    "sha256": "24e9a9cf73b3f3e236f55a3d73c9025f08725919fb40c8d3a5940fc94ae73cc9",
+    "source": "https://assets.tcgdex.net/zh-tw/SV/SV3/012/high.webp",
+    "reference_only": true
+  },
+  "de-sv04.5-007.webp": {
+    "sha256": "c14d455d11ce8676e4d15f7982edc45fee612028c02868488f583167ad21dcd6",
+    "source": "https://assets.tcgdex.net/de/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "en-sv04.5-007.webp": {
+    "sha256": "d1e3b2f3bd406eda79ec21eb32cd8bcde97f7329123c822f0ab2c84d0d48529d",
+    "source": "https://assets.tcgdex.net/en/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "es-sv04.5-007.webp": {
+    "sha256": "8e56de9022cefea02f50817959a538506f80a51f0cc86803134936168837bade",
+    "source": "https://assets.tcgdex.net/es/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "fr-sv04.5-007.webp": {
+    "sha256": "e20dd3b66cebafbd265065730e384cd64155802e0254804773b1bed47340fb80",
+    "source": "https://assets.tcgdex.net/fr/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "it-sv04.5-007.webp": {
+    "sha256": "bfbbf05b789912ab90682eb3421e57e721117381dcba7f501fccdba9914d5e82",
+    "source": "https://assets.tcgdex.net/it/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "pt-sv04.5-007.webp": {
+    "sha256": "d66365b3fb793eeaf4f18f23dfec57b30dd29d1319dd0caf9d7e9e6e7bc41c52",
+    "source": "https://assets.tcgdex.net/pt/sv/sv04.5/007/high.webp",
+    "reference_only": true
+  },
+  "de-sv04.5-109.webp": {
+    "sha256": "ae038408635fa04e32eec2d1aee9c91d546476542f3d59058358806f32fff641",
+    "source": "https://assets.tcgdex.net/de/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "en-sv04.5-109.webp": {
+    "sha256": "6d1cee4b265ffa7e6a63857113405fa03023529d33975332b1a483de2db3e074",
+    "source": "https://assets.tcgdex.net/en/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "es-sv04.5-109.webp": {
+    "sha256": "880807174a93456ff2afc76b568626093cb8f54942b54a12010201c995f346af",
+    "source": "https://assets.tcgdex.net/es/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "fr-sv04.5-109.webp": {
+    "sha256": "45cc89ba91311a94542138592e3bae03c62606dcf92e4c83c455664969bbe65b",
+    "source": "https://assets.tcgdex.net/fr/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "it-sv04.5-109.webp": {
+    "sha256": "06a4a330a1e2c7dd64c307b27d4a9ff408d7366573349652b8d1ead4a94d37ec",
+    "source": "https://assets.tcgdex.net/it/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "pt-sv04.5-109.webp": {
+    "sha256": "fed126092e217290290beacee77700ba85c2212ddbf64c704c1ad26dac721b27",
+    "source": "https://assets.tcgdex.net/pt/sv/sv04.5/109/high.webp",
+    "reference_only": true
+  },
+  "en-me02-011.webp": {
+    "sha256": "098feb459a8c1388813e1efab64b6acb6e8b104ee2f70df71c85fff565bdc048",
+    "source": "https://assets.tcgdex.net/en/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "de-me02-011.webp": {
+    "sha256": "7bb4620304444654fa4f0c1485113042739cffd6e862d3c12e9c36a65efd7785",
+    "source": "https://assets.tcgdex.net/de/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "es-me02-011.webp": {
+    "sha256": "ed62913518f6972372873b50d94886af5c980d6891bd798256b6f81e46b8250f",
+    "source": "https://assets.tcgdex.net/es/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "es-mx-me02-011.webp": {
+    "sha256": "1839e79aeff7dab00018b17a67874a1f0e6548b5c6b6450a0fd539fe784b4148",
+    "source": "https://assets.tcgdex.net/es-mx/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "fr-me02-011.webp": {
+    "sha256": "53186affd2ced6ff4cb6ea8a4c00ee3a646cf10567f611595a4bba5f98b41866",
+    "source": "https://assets.tcgdex.net/fr/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "it-me02-011.webp": {
+    "sha256": "cc3d313d13e4c33169f9f9e5be700ec006b7b5a2e039cf1fcdf7ce7f4816842e",
+    "source": "https://assets.tcgdex.net/it/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "pt-me02-011.webp": {
+    "sha256": "04e491e267f0e993cde5a1ae44beba4303f286a8942ceebbadc21c9d84402cb1",
+    "source": "https://assets.tcgdex.net/pt/me/me02/011/high.webp",
+    "reference_only": true
+  },
+  "en-me02.5-020.webp": {
+    "sha256": "aa397068131162153f4754a76b8fa2dc2f8b8466551ec1084b9a7660a7b9ee89",
+    "source": "https://assets.tcgdex.net/en/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "de-me02.5-020.webp": {
+    "sha256": "09de07f60480ce4a280c8d6db031882897683a68ad9464d77fbeb365bac15d09",
+    "source": "https://assets.tcgdex.net/de/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "es-me02.5-020.webp": {
+    "sha256": "0f41c26fcd10417d140c2f382d8b52791550a317eb8a3d6a589777a66cbe1a78",
+    "source": "https://assets.tcgdex.net/es/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "es-mx-me02.5-020.webp": {
+    "sha256": "c8f0675d59940b1899a95755bcb4f4932a10b573381d0c01b8fb4b8a5c137eca",
+    "source": "https://assets.tcgdex.net/es-mx/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "fr-me02.5-020.webp": {
+    "sha256": "b593fae068a41927fcf68b9c9fe410674e4f490e003c84a8412aab9ff7582f04",
+    "source": "https://assets.tcgdex.net/fr/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "it-me02.5-020.webp": {
+    "sha256": "29ed11ffb36c5c92229067598ddbde3836a0bba41bf0f9d517e9e8fd103bc229",
+    "source": "https://assets.tcgdex.net/it/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "pt-me02.5-020.webp": {
+    "sha256": "9e8fa8047844de9dd83a072f090929ac5efebe58474725a310ba442161e9bdac",
+    "source": "https://assets.tcgdex.net/pt/me/me02.5/020/high.webp",
+    "reference_only": true
+  },
+  "source-dd441fe5ae2ba4.jpg": {
+    "sha256": "b4a5e73fbcf5e559d7383024b31e688a3048c09774594eee1b9adf976bbfaa75",
+    "source": "https://archives.bulbagarden.net/media/upload/thumb/b/b3/CharmanderMEPPromo38.jpg/180px-CharmanderMEPPromo38.jpg",
+    "reference_only": true
+  }
+}

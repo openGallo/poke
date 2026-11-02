@@ -1,0 +1,52 @@
+{
+  "environment": "Actual Uvicorn loopback HTTP process; isolated temporary database; synthetic records only",
+  "checks": [
+    {
+      "check": "Server starts, rejects anonymous collection access and permits owner login",
+      "passed": true
+    },
+    {
+      "check": "Owned slab and session survive full OS-process stop and restart",
+      "passed": true
+    },
+    {
+      "check": "Synthetic slab removed and collection restored to zero ownership",
+      "passed": true
+    },
+    {
+      "check": "POST updater execution exactly matches persisted GET timestamp and respects pause",
+      "passed": true
+    },
+    {
+      "check": "Production 60-second scheduler actually wakes and persists its paused execution",
+      "passed": true
+    },
+    {
+      "check": "Unconfigured eBay reports missing credentials with zero fabricated scan results",
+      "passed": true
+    },
+    {
+      "check": "Consistent SQLite backup completes and passes integrity verification",
+      "passed": true
+    }
+  ],
+  "manual_monitor": {
+    "checkedAt": "2026-10-10T11:10:59.142107+00:00",
+    "status": "paused"
+  },
+  "observed_scheduled_execution": {
+    "id": "b9a6a55bdb8a41268226080bc292ea53",
+    "checkedAt": "2026-10-10T11:11:58.992590+00:00",
+    "trigger": "scheduled",
+    "status": "paused",
+    "scanned_variants": 0,
+    "search_results": 0,
+    "rechecked_listings": 0,
+    "candidate_matches": 0,
+    "rejected_matches": 0,
+    "new_alerts": 0,
+    "errors": [],
+    "message": "Saved pause state honored. No marketplace request sent.",
+    "finishedAt": "2026-10-10T11:11:59.006339+00:00"
+  }
+}

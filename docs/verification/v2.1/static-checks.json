@@ -1,0 +1,7 @@
+{
+  "javascript_syntax": "passed node --check ember/static/app.js",
+  "python_compilation": "passed python -m compileall -q ember scripts tests",
+  "static_type_checker": "not run",
+  "dependency_advisory_scan": "not run",
+  "docker_build": "not run"
+}

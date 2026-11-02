@@ -1,0 +1,62 @@
+{
+  "environment": "Offline Chromium components + isolated in-process ASGI bridge; NOT browser-network or deployed end-to-end verification. External image requests blocked; all fixtures synthetic.",
+  "checks": [
+    {
+      "check": "Private-session login and empty dual-completion dashboard render",
+      "passed": true
+    },
+    {
+      "check": "Card detail shows buying comparison and labelled external research searches",
+      "passed": true
+    },
+    {
+      "check": "Free public-guide mapping form makes review explicit without provider or subscription requests",
+      "passed": true
+    },
+    {
+      "check": "Raw ownership form persists through browser component reload without completing PSA 10",
+      "passed": true
+    },
+    {
+      "check": "Condition-specific target saves through the watchlist form",
+      "passed": true
+    },
+    {
+      "check": "Raw listing entry, explicit delivery costs and condition review reach the actual application backend",
+      "passed": true
+    },
+    {
+      "check": "Real sale observation is bucketed correctly; one sale remains insufficient and is plotted as one point",
+      "passed": true
+    },
+    {
+      "check": "PSA history stays separate and per-card refresh visibly respects pause",
+      "passed": true
+    },
+    {
+      "check": "Global fallback, seller and budget preferences save and reload",
+      "passed": true
+    },
+    {
+      "check": "Deals filters operate; an already-owned fallback is not another collection need",
+      "passed": true
+    },
+    {
+      "check": "390-pixel binder has no page-level horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "390-pixel card comparison and condition history have no page-level overflow",
+      "passed": true
+    },
+    {
+      "check": "390-pixel settings and source capability inventory have no page-level overflow",
+      "passed": true
+    },
+    {
+      "check": "No uncaught browser JavaScript errors in checked workflows",
+      "passed": true
+    }
+  ],
+  "js_errors": []
+}

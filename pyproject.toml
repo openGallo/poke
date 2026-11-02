@@ -1,0 +1,22 @@
+[project]
+name = "ember-charmander"
+version = "2.2.0"
+description = "Private condition-aware Charmander binder and buying assistant"
+requires-python = ">=3.12"
+dependencies = ["fastapi==0.128.2", "uvicorn==0.48.0", "httpx[socks]==0.28.1", "pydantic==2.13.5", "argon2-cffi==25.1.0", "cryptography==46.0.4", "pillow==12.3.0", "python-multipart==0.0.29"]
+
+[project.optional-dependencies]
+desktop = ["pywebview==6.2.1"]
+build = ["pyinstaller==6.22.3"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true

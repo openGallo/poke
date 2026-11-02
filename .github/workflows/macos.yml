@@ -1,0 +1,43 @@
+name: Build Mac application
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ember/**'
+      - 'packaging/**'
+      - 'scripts/build_macos.py'
+      - 'scripts/check_desktop_process.py'
+      - 'requirements*.lock'
+      - '.github/workflows/macos.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  mac:
+    strategy:
+      fail-fast: false
+      matrix:
+        runner: [macos-15, macos-15-intel]
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-desktop.lock -r requirements-dev.lock
+      - run: python -m pytest
+      - run: python scripts/build_macos.py
+      - name: Smoke-test the bundled runtime with isolated storage
+        shell: bash
+        run: |
+          export EMBER_DATA_DIR="$RUNNER_TEMP/ember-smoke"
+          dist/Ember.app/Contents/MacOS/Ember --no-open &
+          EMBER_PID=$!
+          trap 'kill "$EMBER_PID" 2>/dev/null || true' EXIT
+          python scripts/check_desktop_process.py "$EMBER_DATA_DIR"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Ember-${{ matrix.runner }}
+          path: dist/Ember-macOS-*.zip
+          retention-days: 14

@@ -1,0 +1,12 @@
+{
+  "application_version": "2.1.0",
+  "base_commit": "884d48a2cbe1236f35a79674e317ec02198dd4f8",
+  "github_account_verified": "openGallo",
+  "intended_repository": "openGallo/ember-charmander",
+  "repository_result": "404 / inaccessible with current connector",
+  "github_published": false,
+  "live_deployment_updated": false,
+  "original_site_changed": false,
+  "production_market_scan_verified": false,
+  "local_scheduled_pause_execution_verified": true
+}

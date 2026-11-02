@@ -1,0 +1,24 @@
+# Production template for an EXISTING server with an HTTPS reverse proxy.
+# No cloud service, domain, or paid resource is automatically created.
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    init: true
+    environment:
+      EMBER_DATA_DIR: /app/runtime
+      EMBER_PUBLIC_URL: ${EMBER_PUBLIC_URL:?Set the existing HTTPS origin first}
+      EMBER_SCHEDULER: "true"
+    volumes:
+      - ember-data:/app/runtime
+    ports:
+      - "127.0.0.1:8000:8000"
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=64m
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  ember-data:

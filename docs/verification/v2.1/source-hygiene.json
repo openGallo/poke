@@ -1,0 +1,7 @@
+{
+  "scope": "Outgoing source and known credential patterns; not a complete security audit",
+  "files_checked": 83,
+  "history_objects_checked": 59,
+  "passed": true,
+  "findings": []
+}
