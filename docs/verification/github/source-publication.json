@@ -12,5 +12,18 @@
   "intel_macos_build": "success",
   "intel_packaged_runtime_startup": "success",
   "intel_artifact_id": 13160114376,
-  "native_gui_visual_tested": false
+  "native_gui_visual_tested": false,
+  "apple_silicon_macos_build": "success",
+  "apple_silicon_packaged_runtime_startup": "success",
+  "apple_silicon_artifact_id": 13160977400,
+  "mac_tests_passed_per_architecture": 259,
+  "mac_job_ids": {
+    "arm64": 125403436768,
+    "x86_64": 125403437307
+  },
+  "delivery_verified_at_utc": "2026-11-02T19:58:43.985334+00:00",
+  "application_code_changed_since_build": false,
+  "native_finder_launch_tested": false,
+  "apple_notarized": false,
+  "artifact_retention_until_utc": "2026-11-16"
 }

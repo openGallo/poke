@@ -1,5 +1,7 @@
 # Paused checkpoint — 2 November 2026
 
+**Historical checkpoint:** the owner resumed this work with “finish”. Documentation and delivery are completed in [DELIVERY-2.2.md](DELIVERY-2.2.md). The remaining text records the earlier pause state.
+
 The owner requested a pause and asked to save progress. Resume only when asked. This checkpoint saves pending documentation and the handoff; it does not change the application or merge anything into `main`.
 
 ## Saved application

@@ -1,16 +1,28 @@
 # Ember 2.2 verification — 2 November 2026
 
-**Publication update:** the complete source is now published in [openGallo/poke](https://github.com/openGallo/poke). The current pre-publication suite passed **259 tests**, including the local-calendar midnight regression and the owner-selected repository checks. The source import’s 307 files were verified byte-for-byte, including executable modes. Mac build results are tracked in [GitHub Actions](https://github.com/openGallo/poke/actions/runs/41482283641). The original checkpoint results below remain as historical evidence.
+**Publication update:** the complete source is published in [openGallo/poke](https://github.com/openGallo/poke). The local publication suite passed **259 tests**, including the local-calendar midnight regression and the owner-selected repository checks. The initial source import's 307 files were verified byte-for-byte, including executable modes. Both macOS 15 architectures passed the same 259-test suite, built standalone applications and passed packaged-runtime startup checks in [GitHub Actions](https://github.com/openGallo/poke/actions/runs/41482283641). The final changes are documentation and delivery evidence; the applications were built from `f11a8031da0ea0d7bf341d8bf5f969ada5b2a4e6`. See [delivery details](DELIVERY-2.2.md). The earlier results below remain as historical evidence.
 
-## Passed in this environment
+## Native build and download verification
 
-- **255 automated tests**, including the original condition/pricing suite and new first-run setup, private backup, stable catalogue migration, source-alias coverage, saved searches, strict fresh defaults and seller-basket tests. Current run: 41.68 seconds. See `verification/v2.2/pytest.xml`.
+| Check | Apple Silicon | Intel |
+| --- | --- | --- |
+| macOS 15 job | `125403436768` — success | `125403437307` — success |
+| Automated suite | 259 passed, 31.13 seconds | 259 passed, 74.54 seconds |
+| Standalone build and ad-hoc signing | Passed | Passed |
+| Packaged local HTTP, first-run setup and UI asset startup | Passed | Passed |
+| Downloaded archive CRC, executable mode, CPU type and version | Passed | Passed |
+
+The outer artifact digests matched GitHub's recorded SHA-256 values. Inner application ZIP checksums and bundle metadata are retained in `verification/github/mac-package-integrity.json`; publication and workflow identifiers are in `verification/github/source-publication.json`. No native GUI interaction is claimed by these checks.
+
+## Earlier desktop checkpoint results
+
+- **255 automated tests**, including the original condition/pricing suite and new first-run setup, private backup, stable catalogue migration, source-alias coverage, saved searches, strict fresh defaults and seller-basket tests. Earlier run: 41.68 seconds. See `verification/v2.2/pytest.xml`.
 - **7 real local HTTP/process checks**: server startup/authentication; purchase persistence across a full process restart; cleanup of synthetic ownership; scheduled/manual scan heartbeat; the actual 60-second scheduler wake; missing-source status with no fabricated offers; consistent SQLite backup. See `http-results.json`.
 - **4 additional real desktop-process checks** passed: ephemeral loopback startup; first-run password setup and login over HTTP; raw NM ownership without PSA 10 completion; full process restart preserving the password, configuration and copy. See `desktop-process.json`. These exercise Linux server lifecycle, not the native Mac window.
 - **A real TCGdex request** through the app returned 15 public aggregate guide observations (HTTP 200, connected). The isolated database still had zero completed sales and zero listings. These observations were not added to the delivered collection. See `live-public-guide.json`.
 - JavaScript syntax, Python compilation, shell syntax and the outgoing source/history check passed. Reviewed reference-image hashes are explicitly allowed by the source check; personal runtime files remain excluded.
 - The combined development and desktop dependency locks resolved together in a dry run. No macOS-specific package was executed on Linux.
-- Source-launcher ZIP created with a valid application-bundle layout, Info.plist, executable shell launcher, source resources, reference images, icon and first-use instructions. Native execution remains unverified.
+- Source-launcher ZIP created with a valid application-bundle layout, Info.plist, executable shell launcher, source resources, reference images, icon and first-use instructions. This earlier launcher was not executed natively; the later standalone packages were verified separately above.
 
 ## Interface review
 
@@ -28,7 +40,7 @@ The deployed database was read through its supported read-only tools. The comple
 
 ## Not verified or not connected
 
-- Cocoa/WebKit window rendering, Finder launch, Mac download dialogs and native notification delivery have not been visually verified. The initial host was Linux. A later standalone Intel build and packaged server-startup check passed on a macOS 15 GitHub runner; see the linked workflow for architecture-specific results.
+- Cocoa/WebKit window rendering, Finder launch, Mac download dialogs and native notification delivery have not been visually verified. Both standalone architectures and their packaged server-startup checks passed on macOS 15 runners. Older macOS releases have not been verified.
 - No Developer ID signing or Apple notarization. The Mac build script's ad-hoc signing is clearly identified.
 - No authenticated live eBay or PriceCharting scan, licensed completed-sales feed, continuous Cardmarket listing crawler, automatic shop crawling, automatic photo/certification authentication, or predicted raw-to-PSA-10 outcome.
 - Worldwide catalogue completeness and a complete artwork-design census remain unverified. The 485 active entries are a partial, dated checklist with 40 provisional identities; the fresh English/French scope has 179 entries.

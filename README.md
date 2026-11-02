@@ -4,7 +4,13 @@
 
 ## Open on your Mac
 
-**Prebuilt standalone packages:** open the [Mac build and downloads](https://github.com/openGallo/poke/actions/runs/41482283641), then choose the artifact for your Mac’s architecture. The Intel package has been built and passed its bundled-runtime startup check on macOS 15. Apple Silicon build availability is shown in that workflow. These packages include their own Python runtime.
+**Prebuilt standalone packages:** both Apple Silicon and Intel packages are built and passed their bundled-runtime startup checks on macOS 15. They include Python and the application dependencies. See [delivery, installation and package checksums](docs/DELIVERY-2.2.md).
+
+1. Check **Apple menu → About This Mac**. Choose `Ember-macos-15` for an Apple chip, or `Ember-macos-15-intel` for an Intel processor, in the [Mac build and downloads](https://github.com/openGallo/poke/actions/runs/41482283641).
+2. Extract the downloaded artifact ZIP, then extract the `Ember-macOS-arm64.zip` or `Ember-macOS-x86_64.zip` inside it. Move **Ember.app** to Applications and open it. The directly delivered application ZIPs need only one extraction.
+3. Choose your owner password. No terminal or separately installed Python is required for these standalone builds. Scheduled scans run while Ember is open.
+
+The builds are ad-hoc signed and are not Apple-notarized. If macOS blocks the first launch because the developer is unverified, follow [Apple's per-app instructions](https://support.apple.com/en-hk/102445): after trying to open Ember, use **System Settings → Privacy & Security → Open Anyway** for Ember. Other macOS versions and the native window have not been visually verified.
 
 **Delivered source launcher:** unzip `Ember-Mac-launcher.zip`, move **Ember.app** somewhere convenient and open it. First launch needs an installed **Python 3.12 or newer** and internet to install the pinned dependencies. If Python is missing, the launcher offers the official Python download page. Reopen Ember after installation. You do not need to type terminal commands for normal use.
 
@@ -12,7 +18,7 @@ Choose an owner password in the first-run window. Later launches show your priva
 
 **From the source folder:** double-click `Launch-Ember.command`. For a self-contained application with its own Python runtime, double-click `Build-Mac-App.command` on your Mac. It builds `dist/Ember.app` and an architecture-specific ZIP. Build on an Intel Mac for Intel, or on Apple Silicon for Apple Silicon. GitHub Actions builds both architectures after application changes are pushed to main; the workflow can also be started manually. Download its architecture-specific ZIP from the repository’s Actions tab.
 
-**Verification limit:** the initial source launcher was assembled on Linux. A later Intel standalone build and bundled-runtime startup check passed on a macOS 15 GitHub runner. Native window rendering, Finder launch, notification delivery and download dialogs have not been visually tested on a Mac. The standalone recipe uses ad-hoc signing rather than Developer ID signing and is not Apple-notarized. See the workflow for each architecture’s current result.
+**Verification limit:** the full 259-test suite, standalone build and bundled-runtime startup checks passed on both macOS 15 runner architectures. Native window rendering, Finder launch, notification delivery and download dialogs have not been visually tested on a Mac. The standalone recipe uses ad-hoc signing and is not Apple-notarized. A minimum version in bundle metadata is not a compatibility test of older macOS releases.
 
 
 ## What you can do

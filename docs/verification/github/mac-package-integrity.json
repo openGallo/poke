@@ -1,0 +1,30 @@
+{
+  "source_commit": "f11a8031da0ea0d7bf341d8bf5f969ada5b2a4e6",
+  "scope": "Downloaded Mac package integrity and bundle metadata; not native GUI execution",
+  "packages": [
+    {
+      "file": "Ember-macOS-arm64.zip",
+      "sha256": "de867c98ab23d50482bedc24e861fab0cb73bb9416d3854f5ca43d2faf2d0ea9",
+      "size_bytes": 39848930,
+      "zip_crc_ok": true,
+      "executable_mode_ok": true,
+      "architecture": "arm64",
+      "version": "2.2.0",
+      "plist_minimum_os": "10.15",
+      "catalogue_and_ui_present": true,
+      "entry_count": 470
+    },
+    {
+      "file": "Ember-macOS-x86_64.zip",
+      "sha256": "a80bd6b3d77a27280b97727d70ae87e4c67651cb4386c7d9ccd4897ee3ad9851",
+      "size_bytes": 41560445,
+      "zip_crc_ok": true,
+      "executable_mode_ok": true,
+      "architecture": "x86_64",
+      "version": "2.2.0",
+      "plist_minimum_os": "10.15",
+      "catalogue_and_ui_present": true,
+      "entry_count": 470
+    }
+  ]
+}
