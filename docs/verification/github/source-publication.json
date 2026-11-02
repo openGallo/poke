@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/openGallo/poke",
+  "visibility": "public",
+  "source_import_commit": "f11a8031da0ea0d7bf341d8bf5f969ada5b2a4e6",
+  "source_tree": "92a44d621b70105ab33e10ffb59c711dc6144fbb",
+  "prepared_local_commit": "15e6008ff3cf45cf9acf0f89ec6c2ce05bdf902e",
+  "verified_source_files": 307,
+  "byte_and_file_mode_match": true,
+  "local_tests_passed": 259,
+  "mac_workflow_run": "https://github.com/openGallo/poke/actions/runs/41482283641",
+  "verified_at_utc": "2026-11-02T16:35:46.158924+00:00",
+  "intel_macos_build": "success",
+  "intel_packaged_runtime_startup": "success",
+  "intel_artifact_id": 13160114376,
+  "native_gui_visual_tested": false
+}

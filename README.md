@@ -4,13 +4,16 @@
 
 ## Open on your Mac
 
+**Prebuilt standalone packages:** open the [Mac build and downloads](https://github.com/openGallo/poke/actions/runs/41482283641), then choose the artifact for your Mac’s architecture. The Intel package has been built and passed its bundled-runtime startup check on macOS 15. Apple Silicon build availability is shown in that workflow. These packages include their own Python runtime.
+
 **Delivered source launcher:** unzip `Ember-Mac-launcher.zip`, move **Ember.app** somewhere convenient and open it. First launch needs an installed **Python 3.12 or newer** and internet to install the pinned dependencies. If Python is missing, the launcher offers the official Python download page. Reopen Ember after installation. You do not need to type terminal commands for normal use.
 
 Choose an owner password in the first-run window. Later launches show your private sign-in screen. Personal data lives in `~/Library/Application Support/Ember`, outside the application, so replacing the app does not replace the collection. The collection starts empty; no purchases have been inferred from old conversations or test fixtures.
 
 **From the source folder:** double-click `Launch-Ember.command`. For a self-contained application with its own Python runtime, double-click `Build-Mac-App.command` on your Mac. It builds `dist/Ember.app` and an architecture-specific ZIP. Build on an Intel Mac for Intel, or on Apple Silicon for Apple Silicon. GitHub Actions builds both architectures after application changes are pushed to main; the workflow can also be started manually. Download its architecture-specific ZIP from the repository’s Actions tab.
 
-**Verification limit:** the delivered `.app` is a source launcher assembled on Linux, not a tested standalone Mac executable. Cocoa/WebKit, macOS notifications, Finder launch, signing and downloads still need verification on a real Mac. The standalone build recipe and CI are provided; no completed Mac build or Apple notarization is claimed. The launcher is unsigned, and the standalone recipe uses ad-hoc signing rather than Developer ID signing.
+**Verification limit:** the initial source launcher was assembled on Linux. A later Intel standalone build and bundled-runtime startup check passed on a macOS 15 GitHub runner. Native window rendering, Finder launch, notification delivery and download dialogs have not been visually tested on a Mac. The standalone recipe uses ad-hoc signing rather than Developer ID signing and is not Apple-notarized. See the workflow for each architecture’s current result.
+
 
 ## What you can do
 

@@ -1,5 +1,7 @@
 # Ember 2.2 verification — 2 November 2026
 
+**Publication update:** the complete source is now published in [openGallo/poke](https://github.com/openGallo/poke). The current pre-publication suite passed **259 tests**, including the local-calendar midnight regression and the owner-selected repository checks. The source import’s 307 files were verified byte-for-byte, including executable modes. Mac build results are tracked in [GitHub Actions](https://github.com/openGallo/poke/actions/runs/41482283641). The original checkpoint results below remain as historical evidence.
+
 ## Passed in this environment
 
 - **255 automated tests**, including the original condition/pricing suite and new first-run setup, private backup, stable catalogue migration, source-alias coverage, saved searches, strict fresh defaults and seller-basket tests. Current run: 41.68 seconds. See `verification/v2.2/pytest.xml`.
@@ -26,11 +28,11 @@ The deployed database was read through its supported read-only tools. The comple
 
 ## Not verified or not connected
 
-- Cocoa/WebKit, Finder launch, Mac download dialogs, native notifications and the final standalone executable require a real Mac. The host is Linux; PyInstaller does not cross-build a tested macOS executable here.
+- Cocoa/WebKit window rendering, Finder launch, Mac download dialogs and native notification delivery have not been visually verified. The initial host was Linux. A later standalone Intel build and packaged server-startup check passed on a macOS 15 GitHub runner; see the linked workflow for architecture-specific results.
 - No Developer ID signing or Apple notarization. The Mac build script's ad-hoc signing is clearly identified.
 - No authenticated live eBay or PriceCharting scan, licensed completed-sales feed, continuous Cardmarket listing crawler, automatic shop crawling, automatic photo/certification authentication, or predicted raw-to-PSA-10 outcome.
 - Worldwide catalogue completeness and a complete artwork-design census remain unverified. The 485 active entries are a partial, dated checklist with 40 provisional identities; the fresh English/French scope has 179 entries.
 - Background operation after quitting is not installed. Scanning runs while Ember is open, at the saved interval, when unpaused and connected.
-- No GitHub upload: the authenticated connector identifies openGallo, but the intended repository returns 404 and the connector cannot create repositories. The available browser reaches GitHub's sign-in screen. The local history and publication helper are ready; no unrelated repository was used as a substitute.
+- The initial delivery could not create its proposed repository. The owner subsequently created and selected `openGallo/poke`; the authenticated connection has now published the full source there. The selected repository is public, and its visibility was preserved. Runtime data and credentials were excluded.
 
 Older evidence under `docs/verification/` is retained as historical provenance. It does not verify this release's Mac package.
